@@ -1,2 +1,506 @@
 # buychange
-placeholder for buychange backend
+//* placeholder for buychange backend
+//* this file is intended for use by the US Government and covered by GPL;
+//* list of numbers follows, by state
+/* */
+#list
+Alabama
+
+   Birmingham                  205.942.9890         v.34  
+   Huntsville                  205.536.5920         v.34  
+   Mobile                      334.660.0271         v.34  
+
+
+Alberta
+
+   Calgary                     403.237.0951         v.32bis
+   Edmonton                    403.421.8500         v.32bis
+
+
+Arizona
+
+   Phoenix                     602.640.6096         v.34  
+   Tucson                      520.620.6152         v.34  
+
+
+Arkansas
+
+   Little Rock                 501.340.6400         v.32bis
+
+
+British Columbia
+
+   Vancouver                   604.689.3602         v.34 only      
+
+
+California
+
+   Bakersfield                 805.322.2100         v.34  
+   Barstow                     619.255.4044         v.34 only      
+   Berkley                     510.845.0326         v.34  
+   Burbank                     818.566.7200         v.34  
+   Chico                       916.891.1055         v.34  
+   Concord                     510.687.0679         v.34  
+   Fresno                      209.497.0200         v.34  
+   Inglewood                   310.671.0839         v.34
+   Irvine                      714.753.1212         v.34  
+   Los Angeles                 213.622.3499         v.34  
+                               213.623.6411         v.34  
+                               213.625.8300         v.34  
+   Malibu                      310.317.8300         v.34 only      
+   Mission Viejo               714.699.0964         v.34  
+   Modesto                     209.524.0197         v.34 only      
+   Mountain View               415.390.0900         v.34  
+                               415.934.3800         v.34 only      
+   Orinda                      510.253.9500         v.34  
+   Pasadena                    818.449.2859         v.34  
+   Sacramento                  916.536.3800         v.34 only      
+   San Bernardino              909.824.9223         v.34  
+   San Diego                   619.230.1221         v.34  
+   San Francisco               415.284.4800         v.34 only      
+                               415.442.4600         v.34  
+   San Ramon                   510.244.1500         v.34  
+   Santa Ana                   714.285.9100         v.34  
+                               714.547.9231         v.34  
+   Santa Clara                 408.653.2300         v.34 only      
+                               408.982.9931         v.34
+   Stockton                    209.464.0899         v.34
+   Torrance                    310.781.9329         v.34  
+   Van Nuys                    818.781.3800         v.34
+
+
+Colorado
+
+   Colorado Springs            719.594.2090         v.34  
+   Denver                      303.291.4016         v.34
+
+
+Connecticut
+
+   Hartford                    860.947.1222         v.34  
+                               860.947.7656         v.34  
+   New Haven                   203.497.8727         v.34  
+   Stamford                    203.316.2947         v.34  
+   Wilton                      203.834.6730         v.34 only      
+
+
+Delaware
+
+   Wilmington                  302.576.0500         v.34  
+
+
+Florida
+
+   Fort Lauderdale             954.971.5720         v.34  
+   Fort Myers                  941.477.5000         v.34  
+   Jacksonville                904.355.1523         v.34  
+   Miami                       305.470.6277         v.34 only      
+   Orlando                     407.481.1000         v.34 only      
+                               407.648.9826         v.34
+   Sarasota                    941.362.0764         v.34
+   St. Petersburg              813.826.0052         v.34  
+   Tallahassee                 904.222.5078         v.34  
+   Tampa                       813.276.9824         v.34  
+   Winter Park                 407.975.4600         v.34  
+
+
+Georgia
+
+   Albany                      912.430.1000         v.34  
+   Atlanta                     404.865.0110         v.34
+                               770.421.0546         v.34 only      
+                               770.421.9767         v.34 only      
+   Augusta                     706.849.2280         v.34  
+   College Park                404.762.5160         v.34  
+
+
+Illinois
+
+   Chicago                     312.565.5380         v.34  
+                               312.616.6700         v.34 only      
+                               312.974.9901         v.34  
+                               312.974.9903         v.34  
+   Schiller Park               847.671.4033         v.34  
+   Urbana                      217.373.2680         v.34  
+
+
+Indiana
+
+   Fort Wayne                  219.452.1004         v.34  
+   Indianapolis                317.842.7547         v.34  
+   South Bend                  219.271.0326         v.34  
+
+
+Iowa
+
+   Des Moines                  515.222.2140         v.34  
+
+
+Japan
+
+   Tokyo                       (03)5201.5600        v.34  
+                               (03)5201.6800        v.34  
+   Yokohama                    (045)224.6760        v.34  
+
+
+Kansas
+
+   Hutchinson                  316.694.0036         v.34  
+   Wichita                     316.337.0198         v.34  
+ 
+
+Kentucky
+
+   Louisville                  502.584.1710         v.34  
+                               502.588.9091         v.34  
+
+
+Louisiana
+
+   Baton Rouge                 504.928.2660         v.34  
+   Lafayette                   318.262.0039         v.34  
+   New Orleans                 504.366.0091         v.34  
+   Shreveport                  318.686.2577         v.34  
+
+
+Maine
+
+   Portland                    207.791.8300         v.34  
+
+
+Maryland
+
+   Annapolis                   410.268.0669         v.34
+   Baltimore                   410.244.0719         v.34  
+   Belair                      410.638.0219         v.32bis
+   Frederick                   301.663.8153         v.34  
+   Hagerstown                  301.665.1216         v.34  
+   Salisbury                   410.341.0278         v.34  
+
+
+Massachusetts
+
+   Billerica                   508.439.6000         v.34  
+   Boston                      617.450.5700         v.34 only      
+                               617.927.3600         v.34 only      
+   Springfield                 413.846.0300         v.34  
+
+
+Michigan
+
+   Ann Arbor                   313.998.2601         v.34  
+   Battle Creek                616.226.8589         v.34  
+   Bay City                    517.667.6121         v.34 only      
+   Centerline                  810.435.2388         v.34 only      
+                               810.574.0259         v.34  
+   Detroit                     313.225.4099         v.34  
+                               313.259.0680         v.34  
+   Flint                       810.768.7980         v.34  
+   Grand Rapids                616.235.9246         v.34  
+   Jackson                     517.783.0809         v.34 only      
+   Kalamazoo                   616.226.8593         v.34  
+   Lansing                     517.336.8936         v.34  
+   Midland                     517.837.1394         v.34 only      
+   Pontiac                     810.475.4425         v.34  
+   Saginaw                     517.771.0053         v.34 only      
+
+
+Minnesota
+
+   Duluth                      218.720.5960         v.34 only      
+   St. Paul                    612.223.7560         v.34  
+
+
+Mississippi
+
+   Jackson                     601.956.2325         v.34  
+   Pascagoula                  601.934.2180         v.34 only      
+
+
+Missouri
+
+   Kansas City                 816.235.7000         v.34  
+   St. Louis                   314.516.0000         v.34
+
+
+Montana
+
+   Billings                    406.247.3000         v.34 only      
+
+
+Nebraska
+
+   Lincoln                     402.458.2800         v.34 only      
+
+
+Nevada
+
+   Las Vegas                   702.382.6667         v.34  
+   Reno                        702.322.9191         v.34 only      
+
+
+New Hampshire
+
+   Manchester                  603.644.0500         v.34  
+
+
+New Jersey
+
+   Atlantic City               609.484.3516         v.34  
+   Ewing                       609.278.3268         v.34  
+   Fairlawn                    201.794.1795         v.34  
+   Hackensack                  201.343.8210         v.34
+   Moorestown                  609.667.0496         v.34  
+   Morristown                  201.898.6758         v.34 only      
+   Newark                      201.622.6100         v.34  
+                               201.645.0874         v.34  
+   Perth Amboy                 908.442.6182         v.34  
+   Trenton                     609.631.0494         v.34  
+   Vineland                    609.205.0040         v.34  
+
+
+New Mexico
+
+   Albuquerque                 505.246.9088         v.34  
+
+
+New York
+
+   Albany                      518.436.3200         v.34  
+   Buffalo                     716.888.1000         v.34  
+   Garden City                 516.227.5600         v.34 only      
+                               516.357.2800         v.34  
+   Islip                       516.468.2200         v.34 only      
+                               516.468.5100         v.34  
+   Ithaca                      607.266.4600         v.34 only      
+   New York                    212.328.4487         v.34 only      
+   Poughkeepsie                914.451.7800         v.34  
+   Rochester                   716.428.3700         v.34 only      
+   Syracuse                    315.448.4000         v.34 only      
+   White Plains                914.789.8000         v.34  
+                               914.993.6000         v.34  
+
+
+North Carolina
+
+   Asheville                   704.253.0221         v.34  
+   Charlotte                   704.587.0755         v.34  
+   Durham                      919.572.9895         v.34  
+   Fayetteville                910.323.9401         v.34 only      
+   Greensboro                  910.333.2366         v.34  
+   Raleigh                     919.876.8141         v.34  
+   Rsch Triangle Park          919.558.2121         v.34  
+   Winston-Salem               910.721.1212         v.34  
+
+
+North Dakota
+
+   Fargo                       701.271.6300         v.34 only      
+
+
+Nova Scotia
+
+   Halifax                     902.422.5599         v.34  
+
+
+Ohio
+
+   Akron                       330.253.9993         v.34 only      
+                               330.374.6990         v.34  
+   Cincinnati                  513.792.9299         v.34  
+   Cleveland                   216.622.7300         v.34 only      
+                               216.696.6331         v.34  
+   Columbus                    614.442.9500         v.34 only      
+   Dayton                      513.228.1510         v.34  
+   Dublin                      614.228.7452         v.34  
+                               614.766.9196         v.34  
+   Toledo                      419.246.2020         v.34  
+   Youngstown                  330.747.7070         v.34 only      
+
+
+Oklahoma
+
+   Oklahoma City               405.270.0534         v.34
+                               405.290.5000         v.34 only      
+   Tulsa                       918.445.2622         v.34  
+
+
+Ontario
+
+   Guelph                      519.837.1390         v.34 only      
+   Hamilton                    905.526.6810         v.34 only      
+   Kitchener                   519.578.2741         v.34  
+   London                      519.642.1812         v.34  
+   Ottawa                      613.231.4838         v.34  
+   St. Catherines              905.685.4155         v.34  
+   Toronto                     416.861.8562         v.34 only      
+
+
+Oregon
+
+   Medford                     541.776.4510         v.34 only      
+   Portland                    503.220.4086         v.34  
+
+
+Pennsylvania
+
+   Allentown                   610.774.9866         v.34  
+   Altoona                     814.949.7045         v.34  
+   Carlisle                    717.258.4462         v.34 only      
+   Lancaster                   717.871.6380         v.34  
+   New Cumberland              717.770.2100         v.34 only      
+   Philadelphia                215.387.9110         v.34  
+                               215.387.9332         v.34 only      
+                               215.587.9450         v.34 only      
+   Pittsburgh                  412.562.1103         v.34  
+   Reading                     610.670.4650         v.34  
+   Scranton                    717.941.0113         v.34  
+   State College               814.235.7670         v.34  
+   York                        717.846.0086         v.34 only      
+
+
+Quebec
+
+   Montreal                    514.876.1183         v.34
+   Quebec                      418.692.5756         v.34  
+
+
+Rhode Island
+
+   Providence                  401.276.2000         v.34  
+
+
+Saskatchewan
+
+   Saskatoon                   306.665.0222         v.34
+
+
+South Carolina
+
+   Charleston                  803.853.4001         v.34  
+   Columbia                    803.988.0800         v.34 only      
+   Greenville                  864.288.1702         v.34  
+
+
+Tennessee
+
+   Jackson                     901.661.9025         v.34  
+   Knoxville                   423.558.8400         v.34  
+   Memphis                     901.371.2030         v.34  
+   Nashville                   615.385.4004         v.34  
+
+
+Texas
+
+   Abilene                     915.738.3100         v.34 only      
+   Amarillo                    806.345.1500         v.32bis only   
+   Austin                      512.432.0001         v.34  
+                               512.464.0011         v.34  
+                               512.464.0012         v.34  
+   Dallas                      214.658.9500         v.34 only      
+                               214.953.3199         v.34  
+   El Paso                     915.545.7300         v.32bis only   
+   Fort Worth                  817.258.9700         v.34  
+                               817.568.5800         v.34 only      
+   Houston                     713.652.8500         v.34 only      
+                               713.767.1503         v.34  
+   Lubbock                     806.741.4400         v.32bis only   
+   Midland                     915.699.9500         v.34 only      
+   San Angelo                  915.481.8100         v.32bis only   
+   San Antonio                 210.244.1900         v.34  
+   Waco                        817.745.2000         v.34 only      
+
+
+Utah
+
+   Salt Lake                   801.264.7940         v.34 only      
+
+
+Vermont
+
+   Burlington                  802.651.6600         v.34  
+   Rutland                     802.786.7300         v.34  
+
+
+Virginia
+
+   Danville                    804.791.4306         v.34  
+   Fredricksburg               540.374.0571         v.34
+   Herndon                     703.904.0600         v.34 only      
+                               703.904.7087         v.34 only      
+                               703.904.7129         v.34  
+   Leesburg                    703.779.1868         v.34  
+   Lynchburg                   804.528.0448         v.34  
+   Norfolk                     804.455.8178         v.34  
+   Richmond                    804.755.7018         v.34  
+   Roanoke                     540.857.4320         v.34  
+
+
+Washington D.C.
+
+   Washington                  202.408.3199         v.34  
+                               202.682.3712         v.34  
+
+
+Washington State
+
+   Seattle                     206.443.0224         v.34 only      
+                               206.728.3468         v.34 only      
+   Tacoma                      206.552.2134         v.34  
+
+
+West Virginia
+
+   Charleston                  304.353.7886         v.34  
+   Morgantown                  304.291.3256         v.34  
+   Wheeling                    304.233.1840         v.34  
+
+
+Wisconsin
+
+   Green Bay                   414.983.2080         v.34  
+   Janesville                  608.755.9420         v.34 only
+   Montana                     Matchey Rd 54747     v.14
+#/list
+/* #note from cousin jpm follows
+str="Dump this worthless project, not worth our time. I’m moving out of town as soon as I figure out plans. Laddie was smarter than any of us realize." 
+Ipv6 - /www/index
+<!DOCTYPE hmtl>
+ <head>
+<script=link.js />
+<script click.js />
+<css>#(cascading style sheets/embedded templates)
+ </head>
+  <body>
+<page>#stuff</page>
+  </body>
+#
+<link />
+#link</body>
+#
+https://www.iana.org/cgi-bin/intreg/intreg.pl
+*/ #note
+#page
+#header this file is intended for use by the united states marine corps as they prepare to guard installations in orbit around Earth; these may include civilian and government buildings and/or stations. #tf #xwr4 #gz #/header
+#nsa #/nsa #.timestamp/#
+#body welcome to marine corps orbital directory #/body
+#footer thank you for your support #/footer
+#/page
+#/note
+#links buychange.online buychange.club buychange.live #/links (!owned)
+#extra
+https://www.BuyChange.___ (!purchase)
+>I am a shopping hub for the people -- the people who hope to create a better world with each purchase they make, by incentivizing improved behavior from the world’s centralized entities (i.e. government, corporations, central banking, religions, etc.).
+>A decentralized marketplace data filtering system that facilitates consumer instinct, in a manner that promotes change in the causes that they find value. 
+>It’s possible to vote with each successful purchase, no matter your political, religious or economic affiliation. We do not discriminate, hedge or alter votes (_you do this, and it's easy! to do so, simply make a purchase_) based on bank balance, sexual inclination or identity. We all make purchases daily...and whether we recognize it or not, we are promoting a certain type of behavior that we may or may not intend to support, believe in, or want to see continue in future generations. If we are to create a better world, we need to ask ourselves, “Is this purchase going to to improve the things I care about, or will I incentivize something that does not sit well with my values?” -- "Do my values best represent myself, my family, or the future of other families with values in a system connected to mine?"
+>Who has the power in this world? The answer to that is simple, and you likely already have an idea who you would reach out to in order to find out, verify or know about the use of such power. The people in positions of power are those who have it, but it is these same people who have such power without knowledge of how to properly direct it. Imagine the change that could be promoted in the world, if every purchase we made created a better world. Vote. Buy. Change.
+MADE IN USATOWN, Worldwide Distributors welcome. Feel free to print out or refer this document, in its entirety or in part, and use the ideas herein contained as an encasement for your product. We can pick it up from anywhere in the world, suspend it in orbit, and deliver it up to 500m under ground level within minutes. We also deliver elevators. #M00N 
+C 0 M 3
+B uy by
+G o G 0
+$ C H A
+N G E $
+$ H E W
+O R L D #/M00N
+str="Available worldwide and at your local library."
+#/extra
