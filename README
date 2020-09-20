@@ -1,8 +1,4 @@
-# buychange
-//* placeholder for buychange backend
-//* this file is intended for use by the US Government and covered by GPL;
-//* list of numbers follows, by state
-/* */
+#readme
 #list
 Alabama
 
@@ -462,45 +458,5 @@ Wisconsin
    Janesville                  608.755.9420         v.34 only
    Montana                     Matchey Rd 54747     v.14
 #/list
-/* #note from cousin jpm follows
-str="Dump this worthless project, not worth our time. I’m moving out of town as soon as I figure out plans. Laddie was smarter than any of us realize." 
-Ipv6 - /www/index
-<!DOCTYPE hmtl>
- <head>
-<script=link.js />
-<script click.js />
-<css>#(cascading style sheets/embedded templates)
- </head>
-  <body>
-<page>#stuff</page>
-  </body>
-#
-<link />
-#link</body>
-#
-https://www.iana.org/cgi-bin/intreg/intreg.pl
-*/ #note
-#page
-#header this file is intended for use by the united states marine corps as they prepare to guard installations in orbit around Earth; these may include civilian and government buildings and/or stations. #tf #xwr4 #gz #/header
-#nsa #/nsa #.timestamp/#
-#body welcome to marine corps orbital directory #/body
-#footer thank you for your support #/footer
-#/page
-#/note
-#links buychange.online buychange.club buychange.live #/links (!owned)
-#extra
-https://www.BuyChange.___ (!purchase)
->I am a shopping hub for the people -- the people who hope to create a better world with each purchase they make, by incentivizing improved behavior from the world’s centralized entities (i.e. government, corporations, central banking, religions, etc.).
->A decentralized marketplace data filtering system that facilitates consumer instinct, in a manner that promotes change in the causes that they find value. 
->It’s possible to vote with each successful purchase, no matter your political, religious or economic affiliation. We do not discriminate, hedge or alter votes (_you do this, and it's easy! to do so, simply make a purchase_) based on bank balance, sexual inclination or identity. We all make purchases daily...and whether we recognize it or not, we are promoting a certain type of behavior that we may or may not intend to support, believe in, or want to see continue in future generations. If we are to create a better world, we need to ask ourselves, “Is this purchase going to to improve the things I care about, or will I incentivize something that does not sit well with my values?” -- "Do my values best represent myself, my family, or the future of other families with values in a system connected to mine?"
->Who has the power in this world? The answer to that is simple, and you likely already have an idea who you would reach out to in order to find out, verify or know about the use of such power. The people in positions of power are those who have it, but it is these same people who have such power without knowledge of how to properly direct it. Imagine the change that could be promoted in the world, if every purchase we made created a better world. Vote. Buy. Change.
-MADE IN USATOWN, Worldwide Distributors welcome. Feel free to print out or refer this document, in its entirety or in part, and use the ideas herein contained as an encasement for your product. We can pick it up from anywhere in the world, suspend it in orbit, and deliver it up to 500m under ground level within minutes. We also deliver elevators. #M00N 
-C 0 M 3
-B uy by
-G o G 0
-$ C H A
-N G E $
-$ H E W
-O R L D #/M00N
-str="Available worldwide and at your local library."
-#/extra
+#r sha3-384: f0c4dac011aec0df7f75e95bb3249ed5bc86e69040c031415a6fdea00db368f05165df26ed4a5c06adf4e78b73ce1180
+#r type
